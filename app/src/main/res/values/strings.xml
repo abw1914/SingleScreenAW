@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SingleScreen-AW</string>
+    <string name="BusinessName">Mistys Lattes</string>
+    <string name="businessAddress">1700 Pine Lane</string>
+    <string name="businesscityzip">Denver, Colorado 80220</string>
+    <string name="businesszip">80222</string>
+    <string name="busDiscription">Serving the Best Lattes!</string>
+    <string name="busHours">Open Everyday 6am-6pm</string>
+    <string name="contact">Reach Us At: 303-555-1234</string>
+</resources>
